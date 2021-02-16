@@ -1,6 +1,5 @@
-commit af9d2e46752fd89eff87c7ef2dc4d4319c80c428 (HEAD -> main, origin/main)
-Merge: ca094d6 2301b59
-Author: brysonm2235 <brmu4265@colorado.edu>
-Date:   Tue Feb 16 05:07:30 2021 +0000
+commit 2301b59ecbac1db6869cfe41e9b4201d335601ba
+Author: galu7424 <galu7424@colorado.edu>
+Date:   Mon Feb 15 20:18:10 2021 -0800
 
-    I think I've got it
+    Added Name

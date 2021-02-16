@@ -1,5 +1,10 @@
+Bryson Murray - brysonm2235 
+
+Partner: Garrett Lubin - therealgarrett
+
 commit 2301b59ecbac1db6869cfe41e9b4201d335601ba
 Author: galu7424 <galu7424@colorado.edu>
 Date:   Mon Feb 15 20:18:10 2021 -0800
 
     Added Name
+    
